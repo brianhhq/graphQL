@@ -3,6 +3,9 @@
 
 A generic tool to get a quick view of AWS S3 Storage Inventory, Size, usage and Cost.
 
+# Reference:
+https://medium.com/@fasterpancakes/graphql-server-up-and-running-with-50-lines-of-python-85e8ada9f637
+
 
 ## Getting Started
 
